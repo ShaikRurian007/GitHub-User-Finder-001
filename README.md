@@ -1,49 +1,51 @@
+# GitFyle Project Overview
 
-# FYLE TASK
+## Description
 
-A brief description of what this project does and who it's for
+GitFyle is a web application designed to simplify the exploration of GitHub user information. It caters to users who want to effortlessly discover details about GitHub profiles, including repositories, in a user-friendly manner.
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript, API
+**Client:** HTML, CSS, JavaScript, API.
 
 ## Demo
 
-Insert gif or link to demo
+[Insert Gif or Link to Demo]
 
 ## Features
 
-- easily find git people usernames
-- know their repos
-- user-friendly
+- **Effortless User Search:** Easily find GitHub usernames with a straightforward search functionality.
+  
+- **Repository Insights:** Obtain information about the repositories associated with a GitHub user.
+
+- **User-Friendly Interface:** The project prioritizes a clean and intuitive design, ensuring a positive user experience.
 
 ## Run Locally
 
-Clone the project
+1. Clone the project
 
-```bash
-  git clone https://link-to-project
-```
+    ```bash
+    git clone https://link-to-project
+    ```
 
-Go to the project directory
+2. Navigate to the project directory
 
-```bash
-  cd my-project
-```
+    ```bash
+    cd my-project
+    ```
 
-Open with VSCode
+3. Open with VSCode
 
-```bash
-  code .
-```
+    ```bash
+    code .
+    ```
 
-Open with live server
+4. Open with live server
 
-```bash
-  npm run start
-```
-
+    ```bash
+    npm run start
+    ```
 
 ## Authors
 
-- [@Anees](https://www.github.com/shaikrurian007)
+- [Anees](https://www.github.com/shaikrurian007)
