@@ -10,7 +10,7 @@ GitFyle is a web application designed to simplify the exploration of GitHub user
 
 ## Demo
 
-[Insert Gif or Link to Demo]
+https://shaikrurian007.github.io/Fyle-Task/
 
 ## Features
 
@@ -25,7 +25,7 @@ GitFyle is a web application designed to simplify the exploration of GitHub user
 1. Clone the project
 
     ```bash
-    git clone https://link-to-project
+    git clone https://github.com/ShaikRurian007/Fyle-Task.git
     ```
 
 2. Navigate to the project directory
