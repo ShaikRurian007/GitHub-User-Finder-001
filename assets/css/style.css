@@ -305,6 +305,15 @@ width: 100%;
 margin-inline: auto;
 }
 
+.containerfoo{
+  padding-inline: 16px;
+  max-width: 1280px; 
+  width: 100%;
+  text-align: center !important;
+  margin-inline: auto;
+}
+
+
 .material-symbols-rounded{
 
 width: 1em;
@@ -830,8 +839,8 @@ main {
 }
 .profile .bio { margin-block: 12px; }
 
-.profile .btn-secondary { max-width: 100%; }
-.profile-meta { margin-block: 24px; }
+.profile .btn-secondary{ max-width: 100%; }
+.profile-meta{ margin-block: 24px; }
 .profile-meta .meta-item,
 .profile-stats .stats-item {
 display: flex;
