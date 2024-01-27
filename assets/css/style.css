@@ -1002,7 +1002,7 @@ main {
 */
   /* card */
 
-  card {
+  .card {
     --spacing: 24px;
   }
 
@@ -1134,7 +1134,7 @@ Profile
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 24px;
+  gap: 18px;
   margin-block: 24px;
   padding-block: 8px;
   padding-inline: 16px;
@@ -1153,3 +1153,4 @@ Profile
   align-items: center;
   transition: var(--transition-short);
 }
+
