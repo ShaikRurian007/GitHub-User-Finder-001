@@ -10,7 +10,7 @@ GitFyle is a web application designed to simplify the exploration of GitHub user
 
 ## Demo
 
-https://shaikrurian007.github.io/Fyle-Task/
+https://shaikrurian007.github.io/GitHub-User-Finder-001/
 
 ## Features
 
